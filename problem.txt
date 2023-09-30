@@ -1,0 +1,6 @@
+1)  The newer version of mongoose doesn't accept callback function so use try-catch blocks instead.
+    https://stackoverflow.com/questions/75603536/throw-new-mongooseerrorquery-prototype-exec-no-longer-accepts-a-callback
+
+2) The component inside useeffect was getting rendered twice.
+    https://stackoverflow.com/questions/61254372/my-react-component-is-rendering-twice-because-of-strict-mode
+

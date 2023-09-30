@@ -1,0 +1,15 @@
+.landing-page-container {
+  display: flex;
+  padding: 120px 0;
+}
+
+.task1-container,
+.task2-container {
+  flex: 1; 
+}
+.task1-container {
+    padding-left: 20px;
+ }
+.task2-container {
+   padding-right: 20px;
+}
