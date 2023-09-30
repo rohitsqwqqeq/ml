@@ -1,9 +1,13 @@
 # IPL Assignment
 
-backend --> contains source code for server
-frontend --> contains source code for User Interface
-screenshots --> contains screenshots of the webpages
-problem.txt --> contains problems faced by me during this project and their solutions (stackoverflow link)
+backend --> contains source code for server  
+
+frontend --> contains source code for User Interface  
+
+screenshots --> contains screenshots of the webpages  
+
+problem.txt --> contains problems faced by me during this project and their solutions (stackoverflow link) 
+ 
 
 ## Getting Started
 
