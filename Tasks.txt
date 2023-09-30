@@ -1,9 +1,0 @@
-
-
-1. Plot the number of matches played per year of all the years in IPL. (Landing page Ist graph)
-2. Plot a stacked bar chart of matches won of all teams over all the years of IPL. (Landing page IInd graph)
-3. For the year "YYYY" plot the extra runs conceded per team.
-4. For the year "YYYY" plot the top economical bowlers.
-5. For the year "YYYY" plot a chart for matches played vs matches won for each team.
-
-

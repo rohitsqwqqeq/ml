@@ -1,5 +1,10 @@
 # IPL Assignment
 
+backend --> contains source code for server
+frontend --> contains source code for User Interface
+screenshots --> contains screenshots of the webpages
+problem.txt --> contains problems faced by me during this project and their solutions (stackoverflow link)
+
 ## Getting Started
 
 *clone this repo using this command ```git clone https://github.com/vishal38722/IPL_Assignment.git```*
@@ -7,17 +12,17 @@
 ### Installation
 
 *from root directory go to frontend directory using this command*  
-```cd frontend```  
+                ```cd frontend```  
 *run this command to install node modules*  
-```npm install```  
+                ```npm install```  
 *from root directory go to backend directory using this command*  
-```cd backend```  
+                ```cd backend```  
 *run this command to install node modules*  
-```npm install```
+                ```npm install```
 
 ### Run the Project
-in fronend and backend directories run this command to run the project  
-```npm run start``` (in both directories frontend and backend)
+In frontend and backend directories run this command to run the project  
+                ```npm run start``` (in both directories frontend and backend)
 
 ### About the Project
 In this project 5 charts are drawn based on IPL [Dataset](https://www.kaggle.com/datasets/manasgarg/ipl) taken from kaggle  
